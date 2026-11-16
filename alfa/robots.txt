@@ -1,0 +1,5 @@
+# DEMONSTRAÇÃO: troque por "Allow: /" ao publicar o site real.
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.exemplo.com.br/sitemap.xml
